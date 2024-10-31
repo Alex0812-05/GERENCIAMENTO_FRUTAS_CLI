@@ -1,3 +1,4 @@
+![banana](https://github.com/user-attachments/assets/36a6374c-1178-4588-ad56-732b24b3e3e8)
 
 
 Projeto utilizando Java, com 1 classe se referindo a GerenciamentoFrutas que executa o programa.
